@@ -20,4 +20,4 @@ now output looks like this
 # #       [17,9,8]
 # #       [26,8]
 # #       [34]
-here first two numbers are sum together and create step by step now the output is 34
+here first two numbers are sum together each and every stp  and create step by step process, now the output is 34
